@@ -6,5 +6,6 @@ author_profile: true
 
 ---
 
-<ul>Analog Electronics</ul>
+Analog Electronics
+<a href="" class="image fit"><ul>Analog Electronics</ul></a>
    
