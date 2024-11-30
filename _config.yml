@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Amit Malaghan"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Amit Malaghan"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,8 +21,8 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "amit.jpg"
-  name             : "Your Sidebar Name"
+  avatar           : "profile.png"
+  name             : "Amit Malaghan"
   pronouns         : # example: "she/her"  
   bio              : ""
   location         : "Earth"
