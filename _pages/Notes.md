@@ -6,5 +6,5 @@ author_profile: true
 
 ---
 
-<a href="/notes/EC/analog razavi notes.pdf"  type="application/pdf">Analog Electronics</a>
+<a href="https://github.com/amithmalaghan/amithmalaghan.github.io/blob/master/notes/EC/analog%20razavi%20notes.pdf"  type="application/pdf">Analog Electronics</a>
    
