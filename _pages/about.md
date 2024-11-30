@@ -6,7 +6,6 @@ redirect_from:
 
 ---
 
-{% include base_path %}
 
 # Amit Malaghan - Phd Student
 
