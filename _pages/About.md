@@ -3,8 +3,7 @@ layout: archive
 title: "About"
 url: /About/    
 author_profile: true
-redirect_from:
-  - /resume
+
 ---
 
 {% include base_path %}
