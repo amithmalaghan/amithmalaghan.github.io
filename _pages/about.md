@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 
-# Amit Malaghan - Phd Student
+# Amit Malaghan - Phd Student 
 
 
 Amit Malaghan, KA, IN   | Linkedin.com/in/amit-malaghan-466408193/ | github.com/amithmalaghan
@@ -18,8 +18,8 @@ Amit Malaghan, KA, IN   | Linkedin.com/in/amit-malaghan-466408193/ | github.com/
 
 
 
-**Languages**: Python, 
-**Tools**:   Git, GitHub, VS Code, Cadence virtuoso
+**Languages**: Python <br> 
+**Tools**:   Git, GitHub, VS Code, Cadence virtuoso <br>
 **Operating Systems**: Windows, Linux  
 
 ## EXPERIENCE
