@@ -21,7 +21,7 @@ repository               : "/amithmalaghan/amithmalaghan.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "amit.jpg"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : ""
