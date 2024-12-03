@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: ""
+title: "Amit Malaghan - Phd Student"
 author_profile: true
 redirect_from: 
 
 ---
 
 
-# Amit Malaghan - Phd Student 
+
 
 
 Amit Malaghan, KA, IN   | Linkedin.com/in/amit-malaghan-466408193/ | github.com/amithmalaghan
